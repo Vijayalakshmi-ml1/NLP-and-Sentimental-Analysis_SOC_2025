@@ -1,10 +1,10 @@
-# 🧠 Natural Language Processing (NLP) Journey — From Basics to Harry Potter Sentiment Analysis 🪄
+# Natural Language Processing (NLP) Journey — From Basics to Harry Potter Sentiment Analysis 
 
 Welcome to the **NLP Learning and Sentiment Analysis Project**, a hands-on, 8-week guided learning journey into the world of Natural Language Processing. This project is designed to equip you with both theoretical foundations and practical experience — culminating in a final assignment where you'll analyze the emotional arc of a **Harry Potter novel**.
 
 ---
 
-## 📌 What You'll Learn
+## What You'll Learn
 
 Over 8 weeks, you’ll master key NLP concepts:
 
@@ -17,11 +17,11 @@ Over 8 weeks, you’ll master key NLP concepts:
 
 ---
 
-## 🎯 Final Project
+## Final Project
 
 > **Deconstruct the emotional journey of a Harry Potter novel.**
 
-📖 You’ll:
+You’ll:
 - Break the novel into chapters
 - Perform sentiment analysis on each section
 - Track how the overall mood shifts over time
@@ -29,7 +29,7 @@ Over 8 weeks, you’ll master key NLP concepts:
 
 ---
 
-## 🗓️ Weekly Breakdown
+## Weekly Breakdown
 
 ### Week 1–2: Introduction to NLP
 - 🔹 **Watch**: [End to End NLP by Codebasics](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
@@ -53,10 +53,10 @@ Over 8 weeks, you’ll master key NLP concepts:
 
 ---
 
-## 📚 Resources
+## Resources
 
-- 🎥 YouTube: [End to End NLP by Codebasics](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
-- 🎓 Coursera:
+- YouTube: [End to End NLP by Codebasics](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
+-  Coursera:
   - [NLP with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
   - [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
-- 📘 *Speech and Language Processing* by Jurafsky & Martin (Optional but recommended)
+- *Speech and Language Processing* by Jurafsky & Martin (Optional but recommended)
